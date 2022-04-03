@@ -1,0 +1,22 @@
+div {
+    background-color: blue;
+    height: 30px;
+    width: 30px;
+    border: black 1px solid;
+}
+
+#container {
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    background-color: yellow;
+    justify-content: center;
+    width: 100px;
+    height: auto;
+}
